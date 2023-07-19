@@ -1,5 +1,5 @@
 {
-    "name": "@loskir/grammy-views",
+    "name": "@ponomarevlad/grammy-views",
     "author": "Kirill Loskutov",
     "version": "0.3.1",
     "main": "./out/mod.js",
